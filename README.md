@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steffen (@Stev-eH)
-- 👀 I’m interested in Game Development, AR/VR/XR and embedded system
+- 👀 I’m interested in Game Development, AR/VR/XR and embedded systems
 - 🌱 I’m currently learning for my Bachelors Degree in Computer science
 - 📫 How to reach me, shout me a message on Discord (unclesteve__)
 
